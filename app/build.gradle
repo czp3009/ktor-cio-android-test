@@ -51,8 +51,6 @@ dependencies {
 dependencies {
     // https://mvnrepository.com/artifact/io.ktor/ktor-client-cio
     implementation group: 'io.ktor', name: 'ktor-client-cio', version: '1.2.4'
-    // https://mvnrepository.com/artifact/io.ktor/ktor-client-gson
-    implementation group: 'io.ktor', name: 'ktor-client-gson', version: '1.2.4'
     // https://mvnrepository.com/artifact/io.ktor/ktor-client-logging-jvm
     implementation group: 'io.ktor', name: 'ktor-client-logging-jvm', version: '1.2.4'
 }
