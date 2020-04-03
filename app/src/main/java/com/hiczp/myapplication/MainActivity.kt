@@ -9,7 +9,7 @@ import io.ktor.client.engine.cio.CIO
 import io.ktor.client.features.logging.LogLevel
 import io.ktor.client.features.logging.Logging
 import io.ktor.client.request.get
-import io.ktor.client.response.HttpResponse
+import io.ktor.client.statement.HttpResponse
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.coroutines.Dispatchers.IO
 import kotlinx.coroutines.delay
